@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/wasiahamad](https://github.com/wasiahamad)
+- 👨‍💻 All of my projects are available at [https://wasiahamad.github.io/Wasi-github.io/](https://wasiahamad.github.io/Wasi-github.io/)
 
 - 📫 How to reach me **alexxwasi95@gmail.com**
 
