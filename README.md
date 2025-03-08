@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasiahamad&label=Profile%20views&color=0e75b6&style=flat" alt="wasiahamad" /> </p>
 
-- 🔭 I’m currently working on [Travelling Plateform](https://job-portals-bnfb.onrender.com/)
+- 🔭 I’m currently working on [Job-Portal](https://job-portals-bnfb.onrender.com/)
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 🤝 I’m looking for help with [Travelling Plateform](https://github.com/wasiahamad/Major_Projects/tree/main/Wanderlust)
+- 🤝 I’m looking for help with [TJob-Portal](https://job-portals-bnfb.onrender.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/wasiahamad](https://github.com/wasiahamad)
 
