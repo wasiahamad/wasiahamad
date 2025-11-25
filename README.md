@@ -5,10 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasiahamad&label=Profile%20views&color=0e75b6&style=flat" alt="wasiahamad" /> </p>
 
 - 🔭 I’m currently working on [SkillChain](https://github.com/wasiahamad/SkillsChain)
+- - 🔭 I have complete this Project [Job-Portal](https://job-portals-bnfb.onrender.com)
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 🤝 I’m looking for help with [Job-Portal](https://job-portals-bnfb.onrender.com)
+- 🤝 I’m looking for help with [SkillChain](https://github.com/wasiahamad/SkillsChain)
 
 - 👨‍💻 All of my projects are available at [wasiahamad](https://github.com/wasiahamad)
 
