@@ -1,20 +1,20 @@
 ![logo](https://github.com/wasiahamad/wasiahamad/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm MD Wasi Ahmad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-stack(Mern-Stack) developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasiahamad&label=Profile%20views&color=0e75b6&style=flat" alt="wasiahamad" /> </p>
 
-- 🔭 I’m currently working on [Job-Portal](https://job-portals-bnfb.onrender.com/)
+- 🔭 I’m currently working on [SkillChain](https://github.com/wasiahamad/SkillsChain)
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 🤝 I’m looking for help with [TJob-Portal](https://job-portals-bnfb.onrender.com/)
+- 🤝 I’m looking for help with [Job-Portal](https://job-portals-bnfb.onrender.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/wasiahamad](https://github.com/wasiahamad)
+- 👨‍💻 All of my projects are available at [wasiahamad](https://github.com/wasiahamad)
 
-- 💬 Ask me about **DSA, MERN-Stack**
+- 💬 Ask me about **DSA, MERN-Stack, Java**
 
-- 📫 How to reach me **alexxwasi95@gmail.com**
+- 📫 How to reach me **mdwasia98@gmail.com**
 
 - ⚡ Fun fact **I am Funny 🤪**
 
