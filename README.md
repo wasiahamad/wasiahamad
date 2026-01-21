@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [SkillChain](https://github.com/wasiahamad/SkillsChain)
 - 🔭 I have complete this Project [Job-Portal](https://job-portals-bnfb.onrender.com)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS** , **TypeScript**
 
 - 🤝 I’m looking for help with [SkillChain](https://github.com/wasiahamad/SkillsChain)
 
