@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [SkillChain](https://github.com/wasiahamad/SkillsChain)
 
-- 👨‍💻 All of my projects are available at [wasiahamad](https://github.com/wasiahamad)
+- 👨‍💻 All of my projects are available at [wasiahamad]()
 
 - 💬 Ask me about **DSA, MERN-Stack, Java**
 
