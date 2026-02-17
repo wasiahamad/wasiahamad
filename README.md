@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [wasiahamad](https://portfolio1-client-v6cv.onrender.com)
 
-- 💬 Ask me about **DSA, MERN-Stack, Java**
+- 💬 Ask me about **DSA, MERN-Stack, Java, etc**
 
 - 📫 How to reach me **mdwasia98@gmail.com**
 
