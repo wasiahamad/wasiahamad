@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS** , **TypeScript**
 
-- 🤝 I’m looking for help with [SkillChain](https://github.com/wasiahamad/SkillsChain)
+- 🤝 I’m looking for help with [skillforge](https://github.com/wasiahamad/MERN_STACK_PROJECTS/tree/main/skillforge-pro-main)
 
 - 👨‍💻 All of my projects are available at [wasiahamad](https://portfolio1-client-v6cv.onrender.com)
 
